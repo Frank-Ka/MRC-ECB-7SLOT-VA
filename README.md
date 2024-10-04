@@ -1,2 +1,2 @@
-# RC-ECB-64-7SLOT-VA
-7 SLOT Backplane RC-ECB-64
+# MRC-ECB-64-7SLOT-VA
+7 SLOT Backplane for MRC-ECB system
